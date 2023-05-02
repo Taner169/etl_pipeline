@@ -14,7 +14,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/tanergokduman/weather-forecast-etl-pipeline.git
+git clone https://github.com/Taner169/etl_pipeline
 Change into the project directory:
 
 bash
