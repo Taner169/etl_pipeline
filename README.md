@@ -27,7 +27,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your_username/weather-forecast-etl-pipeline.git
+git clone https://github.com/Taner169/etl_pipeline
 Install the required Python packages:
 
 bash
